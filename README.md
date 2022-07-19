@@ -1,21 +1,19 @@
 <h1 align="center">Hi, I'm OKK</h1>
 <h3 align="center">I code for FUN!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkushagrakashyap&label=Profile%20views&color=0e75b6&style=flat" alt="omkushagrakashyap" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkushagrakashyap" alt="omkushagrakashyap" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omkushagrakash" target="blank"><img src="https://img.shields.io/twitter/follow/omkushagrakash?logo=twitter&style=for-the-badge" alt="omkushagrakash" /></a> </p>
 
-- 🔭 I’m currently working on **a lot of things.**
+- 🔭 I’m currently working on **A LOT OF THINGS!**
 
-- 🤝 I’m looking for help with **nothing.**
+- 🤝 I’m looking for help with **NOTHING.**
 
-- 👨‍💻 All of my projects are available at [HERE](HERE)
-
-- 💬 Ask me about **(I'd really appreciate if you don't ask me anything))**
+- 💬 Ask me about **(I'd really appreciate, if you don't ask me anything)**
 
 - 📫 How to reach me? **YOU CAN'T!**
+
+- ⚡ Fun fact **I THE BEST!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkushagrakashyap&show_icons=true&locale=en" alt="omkushagrakashyap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkushagrakashyap&" alt="omkushagrakashyap" /></p>
-
