@@ -20,7 +20,7 @@
 
 <a href="https://instagram.com/omkushagrakashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkushagrakashyap" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/okk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="okk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/okk](https://www.youtube.com/channel/UCX_MlfM9QnV54h5D5w0HiEQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="okk" height="30" width="40" /></a>
 </p>
 <br>
 <br>
