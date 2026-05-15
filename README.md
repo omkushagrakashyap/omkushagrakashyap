@@ -18,16 +18,16 @@ Automating things so I can be lazy efficiently 😌
 🚀 Featured Projects
 
   📌 Project One
-     └─ Vitaltity
+     └─ PawHelp
 
   📌 Project Two
-     └─ PawHelp
+     └─ ResumeForge
 
   📌 Project Three
      └─ Luvium
      
   📌 Project Four
-     └─ ResumeForge
+     └─ Gravity Simulation
 
 ──────────────────────────────────────────────
 
