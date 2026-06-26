@@ -18,21 +18,28 @@ Automating things so I can be lazy efficiently 😌
 🚀 Featured Projects
 
   📌 Project One
-     └─ PawHelp
+     └─ PawHelp - Animal Welfare
 
   📌 Project Two
-     └─ ResumeForge
+     └─ ResumeForge - Resume Builder
 
   📌 Project Three
-     └─ Luvium
+     └─ Luvium - AI-matching
      
   📌 Project Four
-     └─ Gravity Simulation
+     └─ Gravity Simulation using C++
+  
+  📌 Project Five
+     └─ Gestura - Gesture Control
+     
+  📌 Project Six
+     └─ Neural Network
+  
 
 ──────────────────────────────────────────────
 
 📫 Connect With Me
 
-  🌐 Portfolio: nothostedyet.com
-  💼 LinkedIn: [linkedin.com/in/ill_update_it_later](https://www.linkedin.com/in/kushagra-k-014503290/)
+  🌐 Portfolio: <br>
+   [💼LinkedIn](https://www.linkedin.com/in/kushagra-k-014503290/)
 
