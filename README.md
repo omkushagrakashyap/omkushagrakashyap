@@ -41,5 +41,5 @@ Automating things so I can be lazy efficiently 😌
 📫 Connect With Me
 
   🌐 Portfolio: <br>
-   [💼LinkedIn](https://www.linkedin.com/in/kushagra-k-014503290/)
+   [💼LinkedIn](https://www.linkedin.com/in/om-kushagra-kashyap-014503290/)
 
