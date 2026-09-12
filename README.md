@@ -1,6 +1,7 @@
-Automating things so I can be lazy efficiently 😌
+<img width="1983" height="793" alt="illustration" src="https://github.com/user-attachments/assets/94d97d0c-0b13-4b98-83c0-1534ab95ca30" />
+<hr>
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 
   💡 Languages:
      ├─ Python 🐍
@@ -12,9 +13,10 @@ Automating things so I can be lazy efficiently 😌
      ├─ React ⚛️
      └─ Node.js 🌐
 
-──────────────────────────────────────────────
+<hr>
 
-🚀 Featured Projects
+
+# 🚀 Featured Projects
 
   📌 Project One
      └─ PawHelp - Animal Welfare
@@ -35,10 +37,10 @@ Automating things so I can be lazy efficiently 😌
      └─ Neural Network
   
 
-──────────────────────────────────────────────
+<hr>
 
-📫 Connect With Me
+# 📫 Connect With Me
 
-  🌐 Portfolio: <br>
-   [💼LinkedIn](https://www.linkedin.com/in/om-kushagra-kashyap-014503290/)
+### 🌐 Portfolio: <br>
+###   [💼LinkedIn](https://www.linkedin.com/in/om-kushagra-kashyap-014503290/)
 
