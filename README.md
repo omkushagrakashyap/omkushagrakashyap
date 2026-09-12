@@ -5,7 +5,6 @@ Automating things so I can be lazy efficiently 😌
   💡 Languages:
      ├─ Python 🐍
      ├─ JavaScript ⚡
-     ├─ Java 🔐
      └─ C++ 🚀
 
   🛠 Tools & Frameworks:
