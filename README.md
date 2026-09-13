@@ -6,7 +6,7 @@
   💡 Languages:
      ├─ Python 🐍
      ├─ JavaScript ⚡
-     └─ C++ 🚀
+     └─ Java 🚀
 
   🛠 Tools & Frameworks:
      ├─ Git & GitHub 🌿
