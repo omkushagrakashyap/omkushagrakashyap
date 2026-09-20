@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="illustration" src="https://github.com/user-attachments/assets/94d97d0c-0b13-4b98-83c0-1534ab95ca30" />
+<img width="1983" height="793" alt="1" src="https://github.com/user-attachments/assets/70e7a2ca-97c4-4e36-ae08-d86d125378fa" />
 <hr>
 
 # 🧰 Tech Stack
