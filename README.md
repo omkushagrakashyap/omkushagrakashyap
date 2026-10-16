@@ -14,27 +14,6 @@
      └─ Node.js 🌐
 
 <hr>
-
-
-# 🚀 Featured Projects
-
-  📌 Project One
-     └─ PawHelp - Animal Welfare
-
-  📌 Project Two
-     └─ ResumeForge - Resume Builder
-
-  📌 Project Three
-     └─ Luvium - AI-matching
-     
-  📌 Project Four
-     └─ Gravity Simulation using C++
-  
-  📌 Project Five
-     └─ Gestura - Gesture Control
-     
-  📌 Project Six
-     └─ Neural Network
   
 
 <hr>
